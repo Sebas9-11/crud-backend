@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "UOmOIR0sW9z84+e0aue/zzfR3W0cn3RP0lrPKX0n6EKdoU60WAskxo1/zjwria1yiggRo6JCkNPNK17GYIPZ2A==",
+  "dgSpecHash": "bMMCnHt7qboJXkA4JeGv5YsWQd+oF9i5RXX5nsnUI3s1xgFcF+Ti7yrGs+roZmZGDtQHyJ9xkZerdrmXor3AOg==",
   "success": true,
-  "projectFilePath": "/Users/sebasbarrios/Desktop/backend/crud/crud/crud.csproj",
+  "projectFilePath": "/Volumes/Crucial X6/dev/technical-test-angular /backend/crud/crud/crud.csproj",
   "expectedPackageFiles": [
     "/Users/sebasbarrios/.nuget/packages/humanizer.core/2.8.26/humanizer.core.2.8.26.nupkg.sha512",
     "/Users/sebasbarrios/.nuget/packages/microsoft.aspnetcore.authentication.abstractions/2.2.0/microsoft.aspnetcore.authentication.abstractions.2.2.0.nupkg.sha512",

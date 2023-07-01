@@ -1,30 +1,24 @@
 ﻿<Properties StartupConfiguration="{9F348E83-5E4F-4CC0-AFAF-9AAE45447152}|https">
-  <MonoDevelop.Ide.Workbench ActiveDocument="crud/Program.cs">
-    <Files>
-      <File FileName="crud/Program.cs" Line="56" Column="1" />
-      <File FileName="crud/Models/Contact.cs" />
-      <File FileName="crud/Properties/launchSettings.json" />
-      <File FileName="crud/Data/DirectoryDb.cs" Line="1" Column="1" />
-    </Files>
+  <MonoDevelop.Ide.Workbench>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="crud" expanded="True">
-            <Node name="crud" expanded="True">
-              <Node name="Data" expanded="True" />
-              <Node name="Models" expanded="True" />
-              <Node name="Properties" expanded="True" />
+          <Node name="crud">
+            <Node name="crud">
+              <Node name="Data" expanded="True">
+                <Node name="DirectoryDb.cs" selected="True" />
+              </Node>
             </Node>
           </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.ItemProperties.crud PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
+  <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.crud PreferredExecutionTarget="/Applications/Firefox.app" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
 </Properties>

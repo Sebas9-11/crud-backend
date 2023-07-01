@@ -42,3 +42,47 @@
 /Users/sebasbarrios/Desktop/backend/crud/crud/bin/Debug/net7.0/Microsoft.DotNet.PlatformAbstractions.dll
 /Users/sebasbarrios/Desktop/backend/crud/crud/bin/Debug/net7.0/Microsoft.Extensions.DependencyModel.dll
 /Users/sebasbarrios/Desktop/backend/crud/crud/bin/Debug/net7.0/Newtonsoft.Json.dll
+/Volumes/Crucial X6/dev/technical-test-angular /backend/crud/crud/bin/Debug/net7.0/appsettings.Development.json
+/Volumes/Crucial X6/dev/technical-test-angular /backend/crud/crud/bin/Debug/net7.0/appsettings.json
+/Volumes/Crucial X6/dev/technical-test-angular /backend/crud/crud/bin/Debug/net7.0/crud
+/Volumes/Crucial X6/dev/technical-test-angular /backend/crud/crud/bin/Debug/net7.0/crud.deps.json
+/Volumes/Crucial X6/dev/technical-test-angular /backend/crud/crud/bin/Debug/net7.0/crud.runtimeconfig.json
+/Volumes/Crucial X6/dev/technical-test-angular /backend/crud/crud/bin/Debug/net7.0/crud.dll
+/Volumes/Crucial X6/dev/technical-test-angular /backend/crud/crud/bin/Debug/net7.0/crud.pdb
+/Volumes/Crucial X6/dev/technical-test-angular /backend/crud/crud/bin/Debug/net7.0/Humanizer.dll
+/Volumes/Crucial X6/dev/technical-test-angular /backend/crud/crud/bin/Debug/net7.0/Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+/Volumes/Crucial X6/dev/technical-test-angular /backend/crud/crud/bin/Debug/net7.0/Microsoft.AspNetCore.OpenApi.dll
+/Volumes/Crucial X6/dev/technical-test-angular /backend/crud/crud/bin/Debug/net7.0/Microsoft.DotNet.PlatformAbstractions.dll
+/Volumes/Crucial X6/dev/technical-test-angular /backend/crud/crud/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.dll
+/Volumes/Crucial X6/dev/technical-test-angular /backend/crud/crud/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Volumes/Crucial X6/dev/technical-test-angular /backend/crud/crud/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Design.dll
+/Volumes/Crucial X6/dev/technical-test-angular /backend/crud/crud/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Volumes/Crucial X6/dev/technical-test-angular /backend/crud/crud/bin/Debug/net7.0/Microsoft.Extensions.DependencyModel.dll
+/Volumes/Crucial X6/dev/technical-test-angular /backend/crud/crud/bin/Debug/net7.0/Microsoft.OpenApi.dll
+/Volumes/Crucial X6/dev/technical-test-angular /backend/crud/crud/bin/Debug/net7.0/Newtonsoft.Json.dll
+/Volumes/Crucial X6/dev/technical-test-angular /backend/crud/crud/bin/Debug/net7.0/Npgsql.dll
+/Volumes/Crucial X6/dev/technical-test-angular /backend/crud/crud/bin/Debug/net7.0/Npgsql.EntityFrameworkCore.PostgreSQL.dll
+/Volumes/Crucial X6/dev/technical-test-angular /backend/crud/crud/bin/Debug/net7.0/Swashbuckle.AspNetCore.Swagger.dll
+/Volumes/Crucial X6/dev/technical-test-angular /backend/crud/crud/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Volumes/Crucial X6/dev/technical-test-angular /backend/crud/crud/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Volumes/Crucial X6/dev/technical-test-angular /backend/crud/crud/obj/Debug/net7.0/crud.csproj.AssemblyReference.cache
+/Volumes/Crucial X6/dev/technical-test-angular /backend/crud/crud/obj/Debug/net7.0/crud.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/Crucial X6/dev/technical-test-angular /backend/crud/crud/obj/Debug/net7.0/crud.AssemblyInfoInputs.cache
+/Volumes/Crucial X6/dev/technical-test-angular /backend/crud/crud/obj/Debug/net7.0/crud.AssemblyInfo.cs
+/Volumes/Crucial X6/dev/technical-test-angular /backend/crud/crud/obj/Debug/net7.0/crud.csproj.CoreCompileInputs.cache
+/Volumes/Crucial X6/dev/technical-test-angular /backend/crud/crud/obj/Debug/net7.0/crud.MvcApplicationPartsAssemblyInfo.cs
+/Volumes/Crucial X6/dev/technical-test-angular /backend/crud/crud/obj/Debug/net7.0/crud.MvcApplicationPartsAssemblyInfo.cache
+/Volumes/Crucial X6/dev/technical-test-angular /backend/crud/crud/obj/Debug/net7.0/staticwebassets/msbuild.crud.Microsoft.AspNetCore.StaticWebAssets.props
+/Volumes/Crucial X6/dev/technical-test-angular /backend/crud/crud/obj/Debug/net7.0/staticwebassets/msbuild.build.crud.props
+/Volumes/Crucial X6/dev/technical-test-angular /backend/crud/crud/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.crud.props
+/Volumes/Crucial X6/dev/technical-test-angular /backend/crud/crud/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.crud.props
+/Volumes/Crucial X6/dev/technical-test-angular /backend/crud/crud/obj/Debug/net7.0/staticwebassets.pack.json
+/Volumes/Crucial X6/dev/technical-test-angular /backend/crud/crud/obj/Debug/net7.0/staticwebassets.build.json
+/Volumes/Crucial X6/dev/technical-test-angular /backend/crud/crud/obj/Debug/net7.0/staticwebassets.development.json
+/Volumes/Crucial X6/dev/technical-test-angular /backend/crud/crud/obj/Debug/net7.0/scopedcss/bundle/crud.styles.css
+/Volumes/Crucial X6/dev/technical-test-angular /backend/crud/crud/obj/Debug/net7.0/crud.csproj.CopyComplete
+/Volumes/Crucial X6/dev/technical-test-angular /backend/crud/crud/obj/Debug/net7.0/crud.dll
+/Volumes/Crucial X6/dev/technical-test-angular /backend/crud/crud/obj/Debug/net7.0/refint/crud.dll
+/Volumes/Crucial X6/dev/technical-test-angular /backend/crud/crud/obj/Debug/net7.0/crud.pdb
+/Volumes/Crucial X6/dev/technical-test-angular /backend/crud/crud/obj/Debug/net7.0/crud.genruntimeconfig.cache
+/Volumes/Crucial X6/dev/technical-test-angular /backend/crud/crud/obj/Debug/net7.0/ref/crud.dll

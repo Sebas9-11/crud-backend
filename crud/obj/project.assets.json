@@ -4938,11 +4938,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/sebasbarrios/Desktop/backend/crud/crud/crud.csproj",
+      "projectUniqueName": "/Volumes/Crucial X6/dev/technical-test-angular /backend/crud/crud/crud.csproj",
       "projectName": "crud",
-      "projectPath": "/Users/sebasbarrios/Desktop/backend/crud/crud/crud.csproj",
+      "projectPath": "/Volumes/Crucial X6/dev/technical-test-angular /backend/crud/crud/crud.csproj",
       "packagesPath": "/Users/sebasbarrios/.nuget/packages/",
-      "outputPath": "/Users/sebasbarrios/Desktop/backend/crud/crud/obj/",
+      "outputPath": "/Volumes/Crucial X6/dev/technical-test-angular /backend/crud/crud/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/sebasbarrios/.nuget/NuGet/NuGet.Config"

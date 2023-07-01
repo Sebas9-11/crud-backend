@@ -10,19 +10,19 @@ namespace crud.Models
         [DatabaseGenerated(DatabaseGeneratedOption.Identity)]
         public int Id { set; get; }
 
-        [Required(ErrorMessage = "El campo Nombre es obligatorio.")]
-        [StringLength(50, ErrorMessage = "El campo Nombre debe tener como máximo {1} caracteres.")]
+        [Required(ErrorMessage = "The Name field is required.")]
+        [StringLength(50, ErrorMessage = "The Name field must be no longer than {1} characters.")]
         public string FirstName { get; set; }
 
-        [Required(ErrorMessage = "El campo Apellido es obligatorio.")]
-        [StringLength(50, ErrorMessage = "El campo Apellido debe tener como máximo {1} caracteres.")]
+        [Required(ErrorMessage = "The Lastname field is required.")]
+        [StringLength(50, ErrorMessage = "The Last Name field must be no longer than {1} characters.")]
         public string LastName { get; set; }
 
-        [Required(ErrorMessage = "El campo Teléfono es obligatorio.")]
-        [RegularExpression(@"^[0-9]+$", ErrorMessage = "El campo Teléfono solo puede contener dígitos.")]
+        [Required(ErrorMessage = "The Phone field is required. ")]
+        [RegularExpression(@"^[0-9]+$", ErrorMessage = "The Phone field can only contain digits.")]
         public string Phone { get; set; }
 
-        [StringLength(500, ErrorMessage = "El campo Comentarios debe tener como máximo {1} caracteres.")]
+        [StringLength(500, ErrorMessage = "The Comments field must be no longer than {1} characters.")]
         public string Comments { get; set; }
     }
 }

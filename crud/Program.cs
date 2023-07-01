@@ -53,10 +53,10 @@ app.MapPost("/contacts", async (Contact e, DirectoryDb db) =>
 app.MapGet("/contacts/{id:int}", async (int id, DirectoryDb db) =>
 {
     return id <= 0
-        ? Results.BadRequest("El ID debe ser un número entero positivo.")
+        ? Results.BadRequest("The ID must be a positive integer.")
         : await db.Contacts.FindAsync(id) is Contact e
             ? Results.Ok(e)
-            : Results.NotFound();
+            : Results.NotFound("No contact found with this id");
 });
 
 
@@ -66,7 +66,7 @@ app.MapGet("/contacts", async (DirectoryDb db) =>
     var contacts = await db.Contacts.ToListAsync();
 
     return contacts.Count == 0
-        ? Results.NotFound("No se encontraron contactos.")
+        ? Results.NotFound("No contacts were found.")
         : Results.Ok(contacts);
 });
 
@@ -75,10 +75,10 @@ app.MapGet("/contacts", async (DirectoryDb db) =>
 app.MapPut("/contacts/{id:int}", async (int id, Contact e, DirectoryDb db) =>
 {
     return e.Id != id
-        ? Results.BadRequest()
+        ? Results.BadRequest("The id dosn`t same")
         : (await db.Contacts.FindAsync(id)) is Contact contact
             ? await UpdateContactAndReturnResult(contact, e, db)
-            : Results.NotFound();
+            : Results.NotFound("No contact found with this id");
 });
 
 async Task<IResult> UpdateContactAndReturnResult(Contact contact, Contact updatedContact, DirectoryDb db)
@@ -99,7 +99,7 @@ app.MapDelete("/contacts/{id:int}", async (int id, DirectoryDb db) =>
     var contact = await db.Contacts.FindAsync(id);
 
     return contact is null
-        ? Results.NotFound()
+        ? Results.NotFound("No contact found with this id")
         : (await DeleteContactAndReturnResult(contact, db));
 });
 
